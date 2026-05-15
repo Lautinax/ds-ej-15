@@ -9,7 +9,8 @@ class Alumno{
         echo 'Nombre    : ' . $this->Nombre . '<br>';
         echo 'Apellido : ' . $this->Apellido  . '<br>' ;
         echo 'Curso : ' . $this->Curso    . '<br>' ;
-        echo 'Division : ' . $this->Division . '<br>' ;                 
+        echo 'Division : ' . $this->Division . '<br>' ;        
+                 
     }
     
 }
